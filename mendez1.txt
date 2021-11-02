@@ -1,1 +1,2 @@
 afegeixo linea desde el repositori local
+Alex Palomo
