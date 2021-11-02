@@ -1,1 +1,1 @@
-Fitxer mendez que copiarem a github
+afegeixo linea desde el repositori local
